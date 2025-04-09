@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dheader&psig=AOvVaw3jnQ2P0NLp38iJ432_dH2n&ust=1744319814379000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICL8uzvy4wDFQAAAAAdAAAAABAE" width="100%" />
+  <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dheader&psig=AOvVaw3jnQ2P0NLp38iJ432_dH2n&ust=1744319814379000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICL8uzvy4wDFQAAAAAdAAAAABAJ" width="100%" />
 </p>
 <h1 align="center">Hello, Jinang here!</h1>
 
@@ -43,4 +43,5 @@
 
 ### 🧠 GitHub 3D Contributions
 
-![3D Contribution Graph](https://raw.githubusercontent.com/jinangshah21/github-readme-activity-graph/master/graph.png)
+[![3D Contribution Graph](https://raw.githubusercontent.com/jinangshah21/jinangshah21/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/jinangshah21)
+
