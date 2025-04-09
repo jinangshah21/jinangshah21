@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/ZTktK9j.png" width="100%" />
-</p>
 <h1 align="center">Hello, Jinang here!</h1>
 
 ---
@@ -38,10 +35,4 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jinangshah21&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinangshah21&layout=compact&theme=tokyonight)
-
----
-
-### 🧠 GitHub 3D Contributions
-
-[![3D Contribution Graph](https://raw.githubusercontent.com/jinangshah21/jinangshah21/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/jinangshah21)
 
